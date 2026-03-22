@@ -1,4 +1,5 @@
 # HomeAssistant on MacOs
+将 Docker 容器内 Home Assistant (HASS) 的 HomeKit 服务（Bridge）通过 mDNS (Bonjour) 协议转发/注册到宿主机所在的网络中
 
 ## 创建HomeAssistant workspace
 ```
