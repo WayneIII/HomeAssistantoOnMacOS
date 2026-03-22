@@ -58,6 +58,7 @@ services:
 ```
 
 ## 创建HA configration
+可参考官方文档：[HomeKit Bridge](https://www.home-assistant.io/integrations/homekit#include_domains)
 ```
 vi /{your_path}/ha/config
 ```
